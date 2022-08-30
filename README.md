@@ -14,3 +14,4 @@ After 8 days, 0% tax.
 The tokens received on tax will go back into rewards pool.
 The tax will be applied on Sushi tokens.Recommend Tech Stack:
 Hardhat, TypeScript, Mocha
+![Screenshot (63)](https://user-images.githubusercontent.com/75713738/187493379-de3a3193-3a20-4b38-a440-61ab6eb224aa.png)
